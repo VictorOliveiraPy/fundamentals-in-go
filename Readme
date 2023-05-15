@@ -1,0 +1,10 @@
+# Starting gerenciador
+go mod init github.com/VictorOliveiraPy
+
+# mantem o go.mod limpo instala e remover pacotes 
+
+god mod tidy 
+
+# install package
+go get github.com/VictorO
+
